@@ -1,0 +1,23 @@
+[
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/home/nautilus/Documents/mexiconuxt/pages/products.vue",
+    "chunkName": "pages/products",
+    "_name": "_1aa564c2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/nautilus/Documents/mexiconuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_37875564"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/home/nautilus/Documents/mexiconuxt/pages/_slug.vue",
+    "chunkName": "pages/_slug",
+    "_name": "_35d0b41c"
+  }
+]
